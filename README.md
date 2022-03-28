@@ -1,6 +1,6 @@
 # Expedition Around Sg
 
-![alt text](https://asifexplore.com/img/new/secret_paladin_poster.jpg)
+![alt text](https://asifexplore.com/img/new/tour_around_sg.jpg)
 <hr>
 TL;DR
 Expedition around Singapore is an application which promotes ordinary citizens, foreigners, and tourists to go on an expedition around Singapore. It also promotes blogging of these expeditions and sharing it with others.
