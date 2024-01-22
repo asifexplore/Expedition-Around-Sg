@@ -9,9 +9,9 @@ Year in, year out, millions of tourists visit Singapore. In an era, where smartp
 
 Expedition around Singapore is an application which promotes ordinary citizens, foreigners, and tourists to go on an expedition around Singapore. It also promotes blogging of these expeditions and sharing it with others.
 
-![alt text](https://asifexplore.com/img/blog/tour_around_sg/hotspots.PNG)
-![alt text](https://asifexplore.com/img/blog/tour_around_sg/hotspot_details.PNG)
-![alt text](https://asifexplore.com/img/blog/tour_around_sg/hotspots.PNG)
+![alt text](https://asifexplore.com/github_images/expedition_sg/hotspots.PNG)
+![alt text](https://asifexplore.com/github_images/expedition_sg/hotspot_details.PNG)
+![alt text](https://asifexplore.com/github_images/expedition_sg/hotspots.PNG)
 <hr>
 Unique Features:
 - Real Time update of local expeditions around Singapore
